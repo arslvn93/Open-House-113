@@ -1,4 +1,4 @@
-{
+const config = {
   "property": {
     "streetAddress": "25 Roosevelt Dr",
     "city": "K7A3J7",
@@ -92,6 +92,6 @@
     "repoUrl": "https://github.com/arslvn93/Open-House-113",
     "tag": "Open House 25 Roosevelt Dr",
     "netlifyUrl": null,
-    "siteId": "1064294336"
+    "siteId": "07dcd150-3aca-4aac-afff-1e492b7add31"
   }
 }
