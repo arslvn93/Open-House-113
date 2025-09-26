@@ -3,7 +3,7 @@ const config = {
     "streetAddress": "25 Roosevelt Dr",
     "city": "K7A3J7",
     "cityStateZip": "K7A3J7, Canada",
-    "heroSubtitle": "Charming 2-bed, 1-bath bungalow listed at $439,900! Explore this beautiful home at our open house. Register for updates, floor plans, and more information.",
+    "heroSubtitle": "Charming 3-bed, 2-bath bungalow listed at $439,900! Explore this beautiful home at our open house. Register for updates, floor plans, and more information.",
     "backgroundImageUrl": "https://i.ibb.co/Q7pbtSJv/25-roosevelt-1.jpg"
   },
   "realtor": {
