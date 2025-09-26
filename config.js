@@ -4,7 +4,7 @@ const config = {
     "city": "K7A3J7",
     "cityStateZip": "K7A3J7, Canada",
     "heroSubtitle": "Charming 2-bed, 1-bath bungalow listed at $439,900! Explore this beautiful home at our open house. Register for updates, floor plans, and more information.",
-    "backgroundImageUrl": "https://api.typeform.com/responses/files/42e868b8cf42e04d0e23f83df483227a2c4d5257f5aae6525e1e606926265135/8892090caa9d_IMG_3709.HEIC"
+    "backgroundImageUrl": "https://i.ibb.co/Q7pbtSJv/25-roosevelt-1.jpg"
   },
   "realtor": {
     "fullName": "Nicole from the Driscoll-Peca Team",
