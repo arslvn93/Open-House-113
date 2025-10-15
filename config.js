@@ -7,12 +7,12 @@ const config = {
     "backgroundImageUrl": "https://i.ibb.co/Q7pbtSJv/25-roosevelt-1.jpg"
   },
   "realtor": {
-    "fullName": "Nicole from the Driscoll-Peca Team",
+    "fullName": "Christine from the Driscoll-Peca Team",
     "title": " Realtor",
-    "phone": "(613) 706-1616",
-    "email": "nicole@driscollpeca.com",
-    "bio": "Nicole is originally from Carleton Place, and has proudly called Kemptville home for the past five years. With a strong background in real estate administration and now as a licensed agent, she combines professional expertise with a genuine passion for helping people.\n\nAs a mother of three, she understands the importance of finding not just a house, but a home that truly fits a family’s needs. She is dedicated to guiding buyers and sellers in Kemptville and the surrounding areas through every step of the market with confidence and care",
-    "photoUrl": "https://i.ibb.co/yBgLYvGT/Agent-Headshots-8.png",
+    "phone": "(613) 706-0066",
+    "email": "christine@driscollpeca.com",
+    "bio": "You won’t catch me using words like “top producer” or “#1 agent” because real estate isn’t about bragging rights. It’s\nabout people. Real people. Real stories. Real moves.\n\nWhether I’m negotiating a complex deal, putting a creative spin on marketing, or rallying the community for a local\nevent, I bring clear communication, bold strategy, and a no-nonsense approach to getting things done. I lead clients\nthrough major life transitions with confidence, care, and a plan that works—because it matters. Not just to you, but to\nme too.\n\nIf you want someone who knows the process inside and out, keeps things moving forward, and shows up ready to\nadvocate fiercely on your behalf, I got you.",
+    "photoUrl": "https://i.ibb.co/kg7MPsys/christine.jpg",
     "social": {
       "facebook": "https://www.facebook.com/driscollpecateam",
       "instagram": "https://instagram.com/driscollpecateam",
